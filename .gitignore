@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+yolo_env/
+
+# YOLO models
+*.pt
+
+# OpenCV temp stuff
+*.jpg
+*.png
+*.mp4
+
+# VSCode
+.vscode/
